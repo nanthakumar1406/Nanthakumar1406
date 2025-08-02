@@ -1,7 +1,8 @@
 # 👋 Hi, I'm **NanthaKumar S** 🚀
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=550&lines=Machine+Learning+Engineer;Data+Analysis;Python+Developer;Web+App+Developer)
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=550&lines=Machine+Learning+Engineer;Data+Analysis;Python+Developer;Web+App+Developer" alt="Typing SVG" />
+</p>
  
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Animated Divider" />
