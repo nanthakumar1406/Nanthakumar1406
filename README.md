@@ -1,8 +1,6 @@
 # 👋 Hi, I'm **NanthaKumar S** 🚀
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=550&lines=Machine Learning Engineer;Data Analysis;Python Developer;Web App Developer" alt="Typing SVG" />
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=550&lines=Machine+Learning+Engineer;Data+Analysis;Python+Developer;Web+App+Developer)
 
  
 <p align="center">
