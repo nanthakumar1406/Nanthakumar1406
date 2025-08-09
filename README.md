@@ -1,12 +1,23 @@
-# 👋 Hi, I'm **NanthaKumar S** 🚀
+<h1 align="center">Hi there, I'm Nanthakumar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=550&lines=Machine+Learning+Engineer;Data+Analysis;Python+Developer;Web+App+Developer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nanthakumar1406&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="trophies">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nanthakumar1406&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
  
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Animated Divider" />
 </p>
+
 
 ## 🚀 About Me  
 💡 **Machine Learning Engineer** | 💻 **Python Developer** | 📊 **Web App Developer**
@@ -32,6 +43,21 @@
   <img src="https://skillicons.dev/icons?i=python,html,css,js,github,sklearn,mysql,pytorch,react,tensorflow,postman,fastapi" alt="Tech Stack" />
 </p>
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Animated Divider" />
+</p>
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nanthakumar1406&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=nanthakumar1406&theme=radical" alt="GitHub Streak" />
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanthakumar1406&layout=compact&theme=radical" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Animated Divider" />
@@ -67,17 +93,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Animated Divider" />
 </p>
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nanthakumar1406&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Animated Divider" />
-</p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanthakumar1406&layout=compact&theme=radical)
 
 ## 🌎 Connect with Me  
 <p align="center">
