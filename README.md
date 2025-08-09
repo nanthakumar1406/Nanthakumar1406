@@ -77,6 +77,8 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Animated Divider" />
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanthakumar1406&layout=compact&theme=radical)
+
 ## 🌎 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/nanthakumars1406/">
