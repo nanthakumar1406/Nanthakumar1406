@@ -5,12 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nanthakumar1406&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="trophies">
-  </a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=nanthakumar1406&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
  
