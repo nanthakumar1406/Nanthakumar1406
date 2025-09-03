@@ -89,9 +89,6 @@
   <a href="mailto:nanthakumars1406@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail" alt="Email">
   </a>
-  <a href="https://github.com/nanthakumar1406">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
 </p>
 
 
